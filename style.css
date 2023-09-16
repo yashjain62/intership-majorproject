@@ -230,7 +230,9 @@ nav li:hover {
   font-size: 3rem;
   font-weight: bold;
 }
-
+.contact_way:hover{
+    text-decoration: underline;
+}
 .bottom_contact {
   max-width: 400px;
   gap: 1rem;
